@@ -8,7 +8,8 @@ struct orang
     int umur;
 };
 
-int main(
+int main
+(
 )
 {
     // Deklarasi obyek dari struct orang
