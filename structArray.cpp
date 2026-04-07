@@ -9,7 +9,8 @@ struct DetailAlamat {
     string kota;
 };
 
-struct orang {
+struct orang 
+{
     string nama;
     DetailAlamat alamat;
     int umur;
