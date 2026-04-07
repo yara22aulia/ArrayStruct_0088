@@ -17,7 +17,7 @@ struct orang
 };
 
 int main(
-    
+
 ) 
 {
     // Deklarasi obyek dari struct orang
@@ -43,7 +43,8 @@ int main(
     
     cout << endl;
     // Menampilkan Isi Obyek
-    for (int i = 0; i <= 2; i++)
+    for (int i = 0; i <= 2; i++
+    )
     {
         cout << "Nama   : " << mhs[i].nama << endl;
         cout << "Desa   : " << mhs[i].alamat.desa << endl;
